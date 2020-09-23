@@ -7,7 +7,7 @@
           <router-link
             :to="{ name: 'home' }"
             class="font-semibold text-xl tracking-tight"
-            >PlatziExchange</router-link
+            >CryptoRanking</router-link
           >
         </div>
         <div
